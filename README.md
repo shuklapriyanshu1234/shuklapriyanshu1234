@@ -8,7 +8,7 @@ Full-stack developer focused on **React, TypeScript, Node.js, GraphQL**.
 | Project | Stack | Links |
 | --- | --- | --- |
 | 🏠 **RealEstateHub** — full-stack real-estate CRM | React, TypeScript, Node, Express, MongoDB, GraphQL, Zustand | [Repo](https://github.com/shuklapriyanshu1234/RealEstateHub) |
-| 💊 **Trident Pharma** — responsive pharma web app | Next.js, React, Tailwind CSS | [Repo](https://github.com/shuklapriyanshu1234/tRiDenT) · [Live](https://trident-pharma.vercel.app/) |
+| 💊 **Trident Pharma** — responsive pharma web app | Next.js, React, Tailwind CSS | [Repo](https://github.com/shuklapriyanshu1234/Trident-Pharma) · [Live](https://trident-pharma.vercel.app/) |
 | 🚕 **Uber Ride Analysis** — demand-pattern analysis | Python, Pandas, NumPy, Matplotlib | [Repo](https://github.com/shuklapriyanshu1234/uber-rides-analysis) |
 
 ## 🛠️ Tech Stack
